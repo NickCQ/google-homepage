@@ -1,0 +1,1 @@
+In this project I will build a basic structure of the Google homepage.
